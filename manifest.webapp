@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "FarmaJato",
+  "launch_path": "/index.html",
+  "description": "Medicine online app",
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "",
+    "url": ""
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "pt-br",
+  "permissions": {
+  },
+  "locales": {
+    "pt-br": {
+      "name": "FarmaJato - Seu Remédio em casa em até 2 horas!",
+      "description": "Compre medicamentos e receba em casa em apenas 2 horas."
+    }
+  }
+}
